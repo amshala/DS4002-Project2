@@ -1,6 +1,10 @@
 # Hypothesis
 
+ Given an image dataset of infected and uninfected cells, can we predict which cells have been parasitized by malaria with at least a 75% accuracy rate.
+
 # Research Question
+
+Can we use image data to predict which cells contain malaria?
 
 ## SRC Section
 
