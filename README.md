@@ -10,6 +10,8 @@ Can we use image data to predict which cells contain malaria?
 
 ### Installing/Building the Code
 
+To run the .pynb file, he following packages must be installed and loaded: mnist, Sequential, Conv2D, MaxPool2D, Flatten, Dropout, and Dense
+
 ### Usage of Code
 
 ## Data Section
