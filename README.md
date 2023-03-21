@@ -49,7 +49,9 @@ Special thanks to Professor Loreto Alonzi and Professor Brian Wright for their g
 
 ### Links to M1 and M2 Assignments
 
+[M1 assignment](https://docs.google.com/document/d/1QOKsJRAqTqHLMnBxCpUXNcdGi2G9eZs9G3AI4apKRPU/edit?usp=sharing)
 
+[M2 assignment](https://docs.google.com/document/d/1t4ODOfT9-8qYV1OFwtb8IgzkjOh5x6ejc2H_a3F6Tow/edit?usp=sharing)
 
 
 
