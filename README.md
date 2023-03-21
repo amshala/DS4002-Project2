@@ -45,7 +45,7 @@ Y. Gavrilova, “What are convolutional neural networks?,” Serokell Software D
 
 ### Acknowledgements
 
-Special thanks to Professor Loreto Alonzi and Professor Brian Wright for their guidance.
+Special thanks to Professor Loreto Alonzi and Daiqing Qi for their guidance.
 
 ### Links to M1 and M2 Assignments
 
