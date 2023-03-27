@@ -1,0 +1,4 @@
+The dataset was downloaded from kaggle at the link provided in the README.md file. 
+It is downloaded as a zip file and inside the zip file there is a folder "cell images". Inside that folder,
+there are two folders: "Parasitized" and "Uninfected". Inside the "Parasitized" folder there are 13779 images (in .png format) of cells that have been 
+infected with malaria. Inside the "Uninfected" folder there are 13779 images (in .png format) that are not infected with malaria. 
