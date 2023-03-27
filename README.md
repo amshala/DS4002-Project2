@@ -30,8 +30,11 @@ https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
 ### Notes about use of Data
 
 ## Figures Section
-
 ### Table of Contents
+| Figure | Key Takeaways | 
+| ------- | --- |
+| trainingandvalidationaccuracy.png | Plot shows both the training and validation accuracies for classifying a cell as parsitized (malaria) or uninfected.|
+| trainingandvalidationloss.png |  Plot shows both the training and validation losses for classifying a cell as parsitized (malaria) or uninfected. |
 
 ## References Section
 
